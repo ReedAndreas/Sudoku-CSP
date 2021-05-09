@@ -5,9 +5,15 @@
 Sudoku can be quite a fun game to pass the time. However, the complexity of certain puzzles can stump a human mind for hours. 
 Luckily, as usual, computers are incredibly efficient at performing the tasks needed to solve such a puzzle.
 
+(typical puzzle shown below)
+
+![Puzzle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/250px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png)
+
 ## The Solution
 The problem of a Sudoku puzzle can be framed as a basic Constraint Satisfaction Problem (CST). 
 Using the principles of backtracking and OOP, I created a solution to this CSP in a Jupyter Notebook. (Description of the algorithm can be found in the Notebook)
+
+<img src="https://thumbs.gfycat.com/EntireUnawareAoudad-size_restricted.gif" width="250" height="250"/>
 
 ## Requirements
 * [Numpy 1.2+](https://numpy.org/)

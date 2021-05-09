@@ -10,10 +10,10 @@ The problem of a Sudoku puzzle can be framed as a basic Constraint Satisfaction 
 Using the principles of backtracking and OOP, I created a solution to this CSP in a Jupyter Notebook. (Description of the algorithm can be found in the Notebook)
 
 ## Requirements
-* [Numpy](https://numpy.org/)
-* [Pandas](https://pandas.pydata.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/)
+* [Numpy 1.2+](https://numpy.org/)
+* [Pandas 1.2+](https://pandas.pydata.org/)
+* [Matplotlib 3.4+](https://matplotlib.org/)
+* [Seaborn 0.1+](https://seaborn.pydata.org/)
 
 ## Further Study
 In addition, I was interested in using this program to discover what made certain puzzles more difficult than others. 
